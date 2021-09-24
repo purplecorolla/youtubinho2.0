@@ -1,0 +1,32 @@
+{
+   "prefix": "-",
+   "ownerIDS": [
+      "xxxxxxxxxxxx"
+   ],
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "xxxxxxxxx",
+            "port": 80,
+            "password": "xxxxxxx"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "xxxxxxxxxxxx",
+      "clientID": "xxxxxxxxxxxx"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": false,
+         "time_delay": 60000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": false,
+         "time_delay": 10000
+      },
+      "selfDeaf": true
+   }
+
+}  
